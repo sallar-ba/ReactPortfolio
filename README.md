@@ -1,2 +1,3 @@
-# react-portfolio
-A React-App Portfolio
+# React Portfolio
+
+A Porfolio App (React)
