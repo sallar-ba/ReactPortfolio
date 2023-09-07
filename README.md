@@ -6,7 +6,7 @@ This is my personal portfolio website built with React. It showcases my projects
 
 ## Demo
 
-You can check out my portfolio website live at [sallar-ba.netlify.app](sallar-ba.netlify.app).
+You can check out my portfolio website live at [sallar-ba.netlify.app](https://sallar-ba.netlify.app/).
 
 
 ## Installation
