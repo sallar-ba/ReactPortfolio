@@ -19,7 +19,7 @@ If you want to run this project locally, follow these steps:
 ```
 2. Navigate to the folder:
 ```
-cd react-portfolio
+cd ReactPortfolio
 ```
 3. Install dependencies:
 ```
