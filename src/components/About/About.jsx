@@ -12,28 +12,25 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl('about/cursorIcon.png')} alt="Cursor Icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>About</h3>
+                            <h3>Machine Learning</h3>
                             <p>
-                                I am a Motivated undergraduate Computer Science student with a strong academic record and hands-on experience in software development and AI research, poised to contribute innovative solutions to the tech industry.
-                            </p>
+                            An aspiring machine learning enthusiast, I'm on a journey to unlock the potential of AI and data, combining my academic knowledge with hands-on experience to build intelligent solutions and explore the limitless possibilities of the machine learning world.                            </p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl('about/serverIcon.png')} alt="Server Icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>About</h3>
+                            <h3>Researh</h3>
                             <p>
-                                I am a Motivated undergraduate Computer Science student with a strong academic record and hands-on experience in software development and AI research, poised to contribute innovative solutions to the tech industry.
-                            </p>
+                            Dedicated to exploring the frontiers of AI and machine learning, I am an aspiring computer scientist with a curiosity-driven approach to solving real-world challenges through research and innovation.                            </p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl('about/uiIcon.png')} alt="UI Icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>About</h3>
+                            <h3>Software Development</h3>
                             <p>
-                                I am a Motivated undergraduate Computer Science student with a strong academic record and hands-on experience in software development and AI research, poised to contribute innovative solutions to the tech industry.
-                            </p>
+                            An enthusiastic software developer, I specialize in building web applications with a focus on user-friendly interfaces. Proficient in technologies like Flask and React, I strive to create seamless digital experiences that blend creativity with functionality.                            </p>
                         </div>
                     </li>
                 </ul>
