@@ -22,7 +22,7 @@
       "imageSrc": "projects/SumTrail.svg",
       "description": "It is an Interactive number selection game based on Maximum Sum Descent Problem.",
       "skills": ["Python", "PyGame", "Data Structures"],
-      "demo": "https://github.com/sallar-ba/SumTrail/releases/tag/v0.2",
+      "demo": "https://github.com/sallar-ba/SumTrail/releases/tag/v0.3",
       "source": "https://github.com/sallar-ba/SumTrail"
     }
   ]
